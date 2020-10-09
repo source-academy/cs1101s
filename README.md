@@ -22,7 +22,7 @@ If you're unsure about whether or not a question is 'conceptual', don't worry - 
 
 *How to answer a question?*
 
-Simply go to the issues tab in this repository and select a question based on the title. If you want to answer, simply respond to the issue with your explanation. You may use markdown to format your answers as well. 
+Simply go to the issues tab in this repository and select a question based on the title. If you want to answer, simply respond to the issue with your explanation. You may use markdown to format your answers as well. Use the terminology of the textbook and lectures.
 
 If you have any more questions, please let us know via piazza or by raising it to any of the staff members. 
 
