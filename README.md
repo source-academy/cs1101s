@@ -14,7 +14,7 @@ Go to the repository and **open an issue** for each question that you have (plea
 
 You can read more about opening issues [here](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue). You can review a sample question posted in the issues tab for your reference. 
 
-*What is a “conceptual” question?
+*What is a “conceptual” question?*
 
 Conceptual questions are high-level questions that are related to understanding of the material (as against applying the material). For example, “how does tail recursion work” is a conceptual question, but “how to implement tail recession for fibonacci” (because the answer to this question will have some implementation of the fibonacci function). 
 
