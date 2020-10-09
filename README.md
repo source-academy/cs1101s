@@ -16,9 +16,9 @@ You can read more about opening issues [here](https://docs.github.com/en/free-pr
 
 *What is a “conceptual” question?*
 
-Conceptual questions are high-level questions that are related to understanding of the material (as opposed to applying the material). For example, “how do iterative processes work” is a conceptual question, but “how to write fibonacci to get an iterative process” (because the answer to this question will have some implementation of the fibonacci function). 
+Conceptual questions are high-level questions that are related to understanding of the material (as opposed to applying the material). For example, “how do iterative processes work” is a conceptual question, but “how to write fibonacci to get an iterative process” is not (because the answer to this question will have some implementation of the fibonacci function). 
 
-If you're unsure about whether or not a question is 'conceptual', don't worry - post it anyways. We will let you know whether or not it is a 'conceptual question'. Please don't be affraid of posting questions! 
+If you're unsure about whether or not a question is 'conceptual', don't worry - post it anyways. We will let you know whether or not it is a 'conceptual question'. Please don't be afraid of posting questions! 
 
 *How to answer a question?*
 
